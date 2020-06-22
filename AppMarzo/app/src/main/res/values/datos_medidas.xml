@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="arreglo_medida_cerveza">
+        <item>100 ml</item>
+        <item>500 ml</item>
+        <item>1000 ml</item>
+    </string-array>
+
+
+
+
+
+</resources>

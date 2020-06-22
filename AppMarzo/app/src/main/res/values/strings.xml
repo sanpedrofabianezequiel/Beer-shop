@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">AppMarzo</string>
+    <string name="continuar">Continuar</string>
+    <string name="complete_los_campos_requeridos">Complete los campos requeridos</string>
+    <string name="especificaciones">Especificaciones</string>
+    <string name="app">App</string>
+    <string name="mockup">mockup</string>
+    <string name="capacidad">Capacidad</string>
+    <string name="contenido_neto">Contenido Neto.</string>
+    <string name="medida">Medida</string>
+    <string name="bot_n_1">Botòn 1</string>
+    <string name="bot_n_2">Botòn 2</string>
+    <string name="bot_n_3">Botòn 3</string>
+    <string name="disponibilidad2">Disponibilidad</string>
+    <string name="deadline_que_usted_necesita_el_producto2">Deadline que usted necesita el producto</string>
+    <string name="switchs">Switch</string>
+    <string name="validar">validar</string>
+    <string name="resumen_de_solicitud">Resumen de Solicitud</string>
+    <string name="resumen_de_solicitud2">Resumen de Solicitud</string>
+    <string name="revise_la_informaci_n_brindada_por_favor">Revise la informaciòn brindada por favor</string>
+    <string name="comentarios">Comentarios..</string>
+    <string name="solicitud_de_un_una">Solicitud de un/una</string>
+    <string name="capacidad1">Capacidad</string>
+    <string name="grado_alimenticio">Grado Alimenticio</string>
+    <string name="tapa">Tapa</string>
+    <string name="grafica">Grafica</string>
+    <string name="disponibilidad3">Disponibilidad</string>
+    <string name="tipologia">Tipologia</string>
+    <string name="disponibilidad">Disponibilidad</string>
+    <string name="deadline_que_usted_necesita_el_producto">Deadline que usted necesita el producto</string>
+
+</resources>
